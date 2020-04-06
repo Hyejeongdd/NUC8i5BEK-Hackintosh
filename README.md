@@ -1,6 +1,6 @@
 
 
-# NUC8i5BEK Catatlina Guide
+# NUC8i5BEK Catalina Guide
 
 ## 机型配置
 * 机型：Intel NUC KIT NUC8I5BEK
