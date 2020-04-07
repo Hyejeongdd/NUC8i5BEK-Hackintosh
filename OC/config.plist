@@ -404,7 +404,7 @@
 			<key>DisplayLevel</key>
 			<integer>0</integer>
 			<key>Target</key>
-			<integer>3</integer>
+			<integer>0</integer>
 		</dict>
 		<key>Security</key>
 		<dict>
