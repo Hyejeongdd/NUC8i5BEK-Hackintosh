@@ -379,9 +379,9 @@
 			<key>PickerMode</key>
 			<string>Builtin</string>
 			<key>HideAuxiliary</key>
-			<false/>
+			<true/>
 			<key>HideSelf</key>
-			<false/>
+			<true/>
 			<key>PickerAttributes</key>
 			<integer>0</integer>
 			<key>PickerAudioAssist</key>
