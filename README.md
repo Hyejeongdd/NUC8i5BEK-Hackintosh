@@ -51,11 +51,11 @@
 * Clover Configurator
 * Hackintool
 
-没有选择一些进阶性的配置工具是为了方便用户使用最少的时间消耗以及最低的学习成本进行启动文件的配置。
+没有选择一些进阶性的配置工具是为了方便用户在最少的时间消耗以及最低的学习成本进行启动文件的配置。
 
 ## BIOS配置
 一些资料指出我们需要调整一些BIOS的设置以获得更好的macOS体验
-这里以0078版本的BIOS为基准 分享一些我对BIOS设置的调整
+这里以0078版本的BIOS为基准版本 分享一些我个人对BIOS的修改配置
 
 Devices - Video
 - IGD Minimum Memory 64MB
@@ -81,3 +81,8 @@ Boot - Boot Configuration - UEFI Boot
 
 Boot - Secure Boot - Secure Boot Config
 - Secure Boot 关闭
+
+## 工具下载
+[OpenCore Configuration](https://mackie100projects.altervista.org/apps/opencoreconf/download-new-build.php?version=last)
+[Clover Configuration](https://mackie100projects.altervista.org/apps/cloverconf/download-new-build.php?version=global)
+[Hackintool](https://github.com/headkaze/Hackintool/releases/latest/download/Hackintool.zip)
