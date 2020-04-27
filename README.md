@@ -3,7 +3,9 @@
 # NUC8i5BEK Catalina Guide
 
 ## 前言
-在这份EFI内
+这不是一个开箱即用的版本，需要根据自身的配置情况进行配置文件的调整，如果你还有很多疑惑 欢迎拜读 @weachy 撰写的黑苹果新手指南Q&A。
+
+[黑苹果新手指南Q&A](https://www.jianshu.com/p/b298da6afef3)
 
 ## 机型配置
 
@@ -88,3 +90,8 @@ Boot - Secure Boot - Secure Boot Config
 [Clover Configuration](https://mackie100projects.altervista.org/apps/cloverconf/download-new-build.php?version=global)
 
 [Hackintool](https://github.com/headkaze/Hackintool/releases/latest/download/Hackintool.zip)
+
+## 致谢
+- 感谢 acidanthera 的团队为黑苹果研究做出的贡献
+- 感谢 黑果小兵、宪武、Xjn、Sukka等提供的教程和技术支持
+- 感谢 weachy 提供的黑苹果新手指南Q&A
