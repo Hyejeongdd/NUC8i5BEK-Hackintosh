@@ -5,7 +5,7 @@
 ## 简介
 这个目录主要是存放一些增强性补丁，一些特定机型及特定补丁会存放在这个目录下
 
-### Kexts
+## Kexts
 ### AppleSSD.kext
 这个Kext是一个空壳补丁，主要是将Generic SSD Controller修补为 Apple SSD Controller，只有装饰作用，对睡眠唤醒没有帮助，纯粹为了强迫症。
 
