@@ -1,7 +1,9 @@
 
-### AppleSSD.kext
+## AppleSSD.kext
+### 前言
 这个Kext是一个空壳补丁，主要是将Generic SSD Controller修补为 Apple SSD Controller，只有装饰作用，对睡眠唤醒没有帮助，纯粹为了强迫症。
 
+### 操作步骤
 ![](https://img.hyejeong.cn/200427/X1.jpg)
 
 不同的固态硬盘的硬件信息也不一致，需要通过Hackintool获取供应商ID和设备ID。
@@ -18,3 +20,12 @@ IOPCIMatch为 「0x + 设备ID + 制造商ID」
 保存后的AppleSSD.kext文件放在OC - Kexts文件夹下 并在config.plist - Kernel 内添加并启用Kext
 
 ![](https://img.hyejeong.cn/200427/X4.jpg)
+
+### 文件下载
+[空壳文件AppleSSD.kext](https://hyejeong.cowtransfer.com/s/12349877e90f44)
+[Hackintool](http://headsoft.com.au/download/mac/Hackintool.zip)
+[ProperTree](https://github.com/corpnewt/ProperTree)
+
+### 致谢
+- 哞提供的空壳配置及IOPCIMatch的计算
+- xjn提供的空壳驱动文件
