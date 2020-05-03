@@ -65,8 +65,8 @@ sudo mount -uw / && killall Finder
 
 配置好以后保存重启即可生效，不同的显示器的宽度高度xy值都是不一样的，文末提供了我目前使用的显示器图标文件及配置文件。
 
-## 文件Demo下载
-如果Github文件下载缓慢，可以通过下面的外链进行下载
+## 文件下载
+如果Github文件下载缓慢，可以通过下面的外链进行下载 <br/>
 [U2720QM Config](https://hyejeong.cowtransfer.com/s/8d599255a5b542)
 
 ## 致谢
