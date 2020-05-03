@@ -22,9 +22,9 @@ IOPCIMatch为 「0x + 设备ID + 制造商ID」
 ![](https://img.hyejeong.cn/200427/X4.jpg)
 
 ### 文件下载
-[空壳文件AppleSSD.kext](https://hyejeong.cowtransfer.com/s/12349877e90f44)
-[Hackintool](http://headsoft.com.au/download/mac/Hackintool.zip)
-[ProperTree](https://github.com/corpnewt/ProperTree)
+[空壳文件AppleSSD.kext](https://hyejeong.cowtransfer.com/s/12349877e90f44) <br/>
+[Hackintool](http://headsoft.com.au/download/mac/Hackintool.zip) <br/>
+[ProperTree](https://github.com/corpnewt/ProperTree) <br/>
 
 ### 致谢
 - 哞提供的空壳配置及IOPCIMatch的计算
