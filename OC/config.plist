@@ -448,17 +448,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C079468024N1M</string>
+			<string></string>
 			<key>ROM</key>
-			<data>ExcM+qxi</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>Macmini8,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C07ZP0XSJYVX</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>2E7A1C84-074E-41E3-ACE4-FFE23B81FE55</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
