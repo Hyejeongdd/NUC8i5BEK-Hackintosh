@@ -68,6 +68,8 @@ sudo mount -uw / && killall Finder
 
 ## 文件下载
 如果Github文件下载缓慢，可以通过下面的外链进行下载 <br/>
+[Hackintool](https://hyejeong.cowtransfer.com/s/82a2c566479045)
+[ProperTree](https://hyejeong.cowtransfer.com/s/057759912bf949)
 [U2720QM Config](https://hyejeong.cowtransfer.com/s/8d599255a5b542)
 
 ## 致谢
