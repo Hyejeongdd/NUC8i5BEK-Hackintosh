@@ -3,7 +3,7 @@
 # 显示器名称及图标自定义方案
 
 ## 前言
-通过对EDID的修补，我们可以修改显示器样式并添加缩放分辨率开启HIDPI。
+通过对EDID的修补，我们可以修改显示器样式名称以及添加缩放分辨率开启HIDPI。
 
 这个章节主要是修补「系统偏好设置 - 显示器」以及「关于本机 - 显示器」内的图标显示及设备型号，纯粹为了强迫症进行的修改。
 
@@ -12,12 +12,15 @@
 * ProperTree
 * Finder
 
+
 ## 修改显示器名称
 首先需要用Hackintool获取显示器的信息，并生成对应的EDID补丁。
 
+> 不是一定要按照我图中的进行勾选，一些参数的设置可能会影响到显示器的一些功能 （在修补以后2720QM 丢失了高动态范围 选项
+
 ![](https://img.hyejeong.cn/200503/X1.png)
 
-进行完以上的操作以后，会导出5个文件并存放在桌面，本章选择使用显示覆盖的方式进行修改，主要需要的文件是「DisplayVendorID-x」和「Icons.plist」
+进行完导出的操作以后，会导出5个文件并存放在桌面，本章选择使用显示覆盖的方式进行修改，主要需要的文件是「DisplayVendorID-x」
 
 打开「DisplayVendorID-x」文件夹内的「DisplayProductID-x」文件，这里存放了显示器的名称、设备ID、EDID等信息。
 
@@ -35,8 +38,6 @@ sudo mount -uw / && killall Finder
 前往文件夹「/System/Library/Displays/Contents/Resources/Overrides」将桌面的「DisplayVendorID-x」文件夹拖入，如果出现弹窗，选择合并即可。
 
 ## 修改显示器图标
-
-进行完上一步的操作以后，我们需要修改「Icons.plist」配置显示器的图标以及位置。
 
 这里需要记录两个参数，接下来的配置中会使用到。
 * DisplayVendorID-x 供应商ID
