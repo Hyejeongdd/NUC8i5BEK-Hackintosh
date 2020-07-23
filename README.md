@@ -89,10 +89,17 @@ Boot - Boot Configuration - UEFI Boot
 Boot - Secure Boot - Secure Boot Config
 - Secure Boot 关闭
 
+## 三码补齐
+在Release版本上，为了避免冲突的问题，config.plist的序列号信息都被剔除，在使用前，您还需要使用工具对三码进行补全，下文中我以OpenCore Configuration为示例进行演示。
+
+使用OpenCore Configuration打开config.plist后在左侧找到并选中「PlatformInfo-机型平台设置」，并点击上方的「DataHub - Generic - PlatformNVRAM」
+
+![](https://img.hyejeong.cn/200723/X1.jpg)
+
+
+
 ## 工具下载
 [OpenCore Configuration](https://mackie100projects.altervista.org/apps/opencoreconf/download-new-build.php?version=last)
-
-[Clover Configuration](https://mackie100projects.altervista.org/apps/cloverconf/download-new-build.php?version=global)
 
 [Hackintool](https://github.com/headkaze/Hackintool/releases/latest/download/Hackintool.zip)
 
