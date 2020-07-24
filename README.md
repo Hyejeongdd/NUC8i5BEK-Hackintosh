@@ -97,6 +97,7 @@ Boot - Secure Boot - Secure Boot Config
 
 ![](https://img.hyejeong.cn/200723/X1.jpg)
 
+在下方的小箭头选择机器型号，豆子峡谷推荐使用Macmini8,1，选择后机型后，系统会生成一组序列号，UUID等数据，点击右上角的「在config.plist里添加此部分内容」保存后即可写入config.plist
 
 
 ## 工具下载
