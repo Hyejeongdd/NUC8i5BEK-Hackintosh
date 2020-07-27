@@ -93,10 +93,19 @@ Boot - Secure Boot - Secure Boot Config
 ## 三码补齐
 在Release版本上，为了避免冲突的问题，config.plist的序列号信息都被剔除，在使用前，您还需要使用工具对三码进行补全，下文中我以OpenCore Configuration为示例进行演示。
 
+开始之前你需要注意以下问题
+1. 不配置该部分OpenCore会自动生成一串序列号，该序列号可能导致无法登陆iCloud
+2. 没有正确配置三码可能会导致无法使用FaceTime、iMessage等功能
+
 使用OpenCore Configuration打开config.plist后在左侧找到并选中「PlatformInfo-机型平台设置」，并点击上方的「DataHub - Generic - PlatformNVRAM」
 
 ![](https://img.hyejeong.cn/200723/X1.jpg)
 
+![](https://img.hyejeong.cn/200723/X3.jpg)
+
+在底下的箭头选择Macmini8,1 ，Configuration会随机生成一套该机型的配置信息，选中右上角的「在config.plist里添加此部分内容」。
+
+![](https://img.hyejeong.cn/200723/X4.jpg)
 
 
 ## 工具下载
