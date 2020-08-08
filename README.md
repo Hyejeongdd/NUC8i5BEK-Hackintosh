@@ -11,7 +11,7 @@
 ## 前言
 这不是一个开箱即用的版本，需要根据自身的配置情况进行配置文件的调整，如果你还有很多疑惑 欢迎拜读 @weachy 撰写的黑苹果新手指南Q&A。
 
-[黑苹果新手指南Q&A](https://www.jianshu.com/p/b298da6afef3)
+[黑苹果新手指南Q&A](https://zhuanlan.zhihu.com/p/165596210)
 
 ## 机型配置
 
