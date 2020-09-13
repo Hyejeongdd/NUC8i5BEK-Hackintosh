@@ -2,14 +2,6 @@
 
 # NUC8i5BEK Big Sur Guide
 
-## 更新日志
-- 2020/07/11 更新OpenCore 0.6.0 + 最新的Lilu + WEG + VSMC ，目前已支持Big Sur Beta 2 正常OTA更新安装
-- 2020/07/12 更新AppleALC后声卡可正常使用
-- 2020/07/18 日常更新OpenCore及Kext依赖
-- 2020/07/23 修改config.plist配置支持Beta 3更新
-- 2020/08/06 更新配置支持Beta 4版本
-- 2020/08/19 更新BIOS版本
-
 ## 前言
 这不是一个开箱即用的版本，需要根据自身的配置情况进行配置文件的调整，如果你还有很多疑惑 欢迎拜读 @weachy 撰写的黑苹果新手指南Q&A。
 
