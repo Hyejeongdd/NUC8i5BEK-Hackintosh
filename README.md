@@ -32,7 +32,7 @@
    </tr>
    <tr>
         <td>硬盘</td>
-        <td>海康威视 C2000 PRO 1T</td>
+        <td>WD BLACK SN750 NVMe™ SSD 500GB </td>
    </tr>
    <tr>
         <td>显卡</td>
@@ -40,7 +40,7 @@
    </tr>
    <tr>
         <td>显示器</td>
-        <td>Dell UltraSharp U2720QM（3840 x 2160）</td>
+        <td>Dell UltraSharp U2718Q（3840 x 2160）</td>
    </tr>
    <tr>
         <td>声卡</td>
