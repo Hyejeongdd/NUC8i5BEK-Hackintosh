@@ -32,8 +32,12 @@
         <td>Intel Iris Plus Graphics 655</td>
    </tr>
    <tr>
-        <td>显示器</td>
+        <td>显示器1</td>
         <td>Dell UltraSharp U2718Q（3840 x 2160）</td>
+   </tr>
+   <tr>
+        <td>显示器2</td>
+        <td>Dell UltraSharp U2720Q（3840 x 2160）</td>
    </tr>
    <tr>
         <td>声卡</td>
@@ -41,7 +45,7 @@
    </tr>
    <tr>
         <td>无线网卡</td>
-        <td>BCM94360CS2（1300Mbps + Bluetooth 4.0）</td>
+        <td>BCM943602CS（1700Mbps + Bluetooth 4.2）</td>
    </tr>
    <tr>
         <td>BIOS</td>
